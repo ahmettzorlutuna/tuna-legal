@@ -2,7 +2,7 @@
 
 **Last Updated:** January 3, 2026
 
-Please read these Terms of Service ("Terms") carefully before using the Tuna mobile application ("App") operated by [YOUR_COMPANY_NAME] ("we," "our," or "us").
+Please read these Terms of Service ("Terms") carefully before using the Tuna mobile application ("App") operated by Ahmet Tayyip Zorlutuna ("we," "our," or "us").
 
 ## Acceptance of Terms
 
